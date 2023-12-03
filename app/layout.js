@@ -6,7 +6,7 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
-  const page = "bg-orange-300 w-screem h-screen";
+  const page = "bg-green-layout w-screem h-screen";
   return (
     <html lang="en">
       <body className={page}>{children}</body>
