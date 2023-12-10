@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className={page}>
       <div>
-        <Link href="/register" className={linkButton}>Register</Link>
+        <Link href="/massage-apply" className={linkButton}>Register</Link>
       </div>
       <div className={headBlock}>
         <h1 className={pageTitle}>Massage Matters</h1>
