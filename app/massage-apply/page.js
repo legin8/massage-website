@@ -11,7 +11,7 @@ export default function Register() {
   return (
     <div className={page}>
       <a href="/" className={linkButton} >Home</a>
-      <h1 className={heading}>Register</h1>
+      <h1 className={heading}>Registered Massage People Apply</h1>
       <p>Register here if you are a registered Massage Person.</p>
 
       <form className={form}>
